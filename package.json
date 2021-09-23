@@ -1,0 +1,9 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/luxon": "^2.0.4",
+    "luxon": "^2.0.2"
+  }
+}
